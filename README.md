@@ -1,7 +1,8 @@
 # Projeto:Simuladores e Experimentos Práticos voltados à Eletrônica Analógica.
 ## Apostila Prática EasyEDA
 
-![image](https://github.com/Rdisrael/Projeto-Ensino-EasyEDA/assets/105133035/58b5f132-ab02-4496-9f83-b515d84c32d3)
+![image](https://github.com/Rdisrael/Projeto-ensino-Easy-EDA/assets/105133035/8c6cd2ac-6708-40a6-9ec5-1b37cfc84a84)
+
 
 
 Projeto de ensino realizado com o objetivo de contribuir na realização de projetos de placas de circuito impresso.
